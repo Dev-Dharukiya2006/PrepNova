@@ -1,0 +1,6 @@
+Place your PrepNova logo image here:
+
+Required filename: logo.png
+
+This is the aurora gradient rocket+graduation cap logo image.
+The Logo component in src/components/Logo.jsx references this file.
